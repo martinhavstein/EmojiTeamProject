@@ -6,13 +6,13 @@
 
 a {
     color: inherit;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 body {
     background-color: #eee;
     color: #4e4544;
-    font: normal 16px sans-serif;
+    font: normal 16px serif;
 }
 
 /* Page Layout */
